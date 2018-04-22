@@ -10,6 +10,6 @@ The False Postion algorithm is used to estimate the root of a given function.
 
 The lu Factor algorithm performs LU factorization on a given matrix.
 
-### Simposon
+### Simpson
 
-The Simposon algorithm performs numerical integration using the Simpon's 1/3 Rule on a given x vector and y vector of values.
+The Simpson algorithm performs numerical integration using the Simpon's 1/3 Rule on a given x vector and y vector of values.
