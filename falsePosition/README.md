@@ -21,4 +21,4 @@ iter – The number of interations that were performed to estimate the root to t
 
 ## Warnings
 
-In order for the algorithm to work properly, the input function (func) must be a function of x. To do this make sure that you have identified x as a symbolic variable before starting the algorithm. This can be done using “syms x” before “ f = ‘function of x’ ” or “ f  = @x ‘function of x’ ” in MatLab.
+In order for the algorithm to work properly, the input function (func) must be a function of x. To do this make sure that you have identified x as a symbolic variable before starting the algorithm. This can be done using **_syms x_** before **_f = ‘function of x’_** or **_f  = @x ‘function of x’_** in MatLab.
