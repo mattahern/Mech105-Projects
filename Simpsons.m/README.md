@@ -10,6 +10,7 @@ table of values and/or when the integral of a function is too difficult to compu
 ## Inputs
 
 x - vector of tabulated experimental data (independent variable)
+
 y - vector of tabulated experimental data (dependent variable)
 
 ## Outputs
