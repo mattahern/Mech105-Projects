@@ -19,7 +19,7 @@ I - calculated value of the integral of the x and y vectors using the Simpson's 
 
 ## Warnings
 
-In order for the funtion to work properly, the x and y input vectors must be the same length otherwise the function will throw an error.
+In order for the function to work properly, the x and y input vectors must be the same length otherwise the function will throw an error.
 Additionally, an error will occur if the values of the x vector are not equidistant apart. Finally, the Simpon's 1/3 rule works by 
 performing numerical integration over an even number of intervals. If the input vectors have an odd number of intervals, the function will
 perform numerical integration using the trapezoidal rule over the last interval and warn the user of this.
